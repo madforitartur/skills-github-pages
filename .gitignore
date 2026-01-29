@@ -26,6 +26,14 @@
 *.sql
 *.sqlite
 
+# Node / Vite
+#############
+node_modules/
+dist/
+.vite/
+*.local
+.env
+
 # OS generated files #
 ######################
 .DS_Store
