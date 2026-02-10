@@ -35,3 +35,11 @@
 .Trashes
 ehthumbs.db
 Thumbs.db
+
+# Backend #
+###########
+backend/node_modules/
+backend/.env
+backend/.env.local
+backend/dist/
+backend/coverage/
